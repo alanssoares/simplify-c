@@ -1,2 +1,6 @@
 # simplify-c
-This is a version of the simplify-js library for polyline simplification
+This is a version in c++ of the simplify-js library for polyline simplification.
+
+The original implementation can be found:
+
+https://github.com/mourner/simplify-js
